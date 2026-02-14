@@ -1,11 +1,11 @@
-# Alexander D. Daguob
+# Miguel A. Rivera
 
-Quezon City, Metro Manila | +63 929 773 1916 | alexanderdaguob@gmail.com
-GitHub: https://github.com/addaguob 
-LinkedIn: https://linkedin.com/in/addaguob
+Taft, Manila, Philippines | +63 917 555 0123 | miguel.rivera@example.com
+GitHub: https://github.com/miguelrivera 
+LinkedIn: https://linkedin.com/in/miguelrivera
 
 ## Professional Summary
-Software Engineer (Full-Stack Python) building backend APIs and end-to-end applications with Python 3, FastAPI, SQLModel/SQLAlchemy, and SQL (SQLite/PostgreSQL). Delivered production-style apps as a solo developer, including authentication, role-based access control (RBAC), offline-first workflows, and reporting/export. Seeking Associate Software Engineer / Junior Python Developer roles focused on REST APIs, testing, and maintainable code.
+Computer Science student at De La Salle University building backend APIs and end-to-end applications with Python 3, FastAPI, SQLModel/SQLAlchemy, and SQL (SQLite/PostgreSQL). Delivered production-style projects as a solo developer, including authentication, role-based access control (RBAC), offline-first workflows, and reporting/export. Seeking a Software Engineering Internship or Junior Python role focused on REST APIs, testing, and maintainable code.
 
 ## Skills
 - Languages: Python 3, SQL, HTML/CSS/JavaScript (working), C#/.NET (recent)
@@ -16,18 +16,18 @@ Software Engineer (Full-Stack Python) building backend APIs and end-to-end appli
 
 ## Work Experience
 
-### Independent Software Engineer (Project-Based) — Remote
-Dec 2023 – Present
+### Student Software Engineer (Project-Based) — Manila
+Aug 2023 – Present
 
-#### PUSH App — Nurse Research Platform (Solo Developer)
+#### Campus Research Hub — Thesis Support Platform (Solo Developer)
 2024 – 2025
-- Built and delivered a full-stack research application used by nurses; supported a 1st-place (Champion) outcome in a nursing research project.
+- Built and delivered a research workflow app for student teams; enabled a 1st-place award in a campus research competition.
 - Designed and implemented a REST API and data model with FastAPI + SQLModel/SQLAlchemy; supported SQLite/PostgreSQL for local-first and production workflows.
 - Implemented authentication and role-based access control (RBAC), offline-first data capture, and exportable reporting (CSV/PDF).
-- Collaborated closely with non-technical stakeholders to translate workflows into reliable product features.
-- Live at https://pushapp.fly.dev/
+- Collaborated with faculty advisers and student researchers to translate workflows into reliable product features.
+- Demo at https://example.com/campus-research
 
-#### EyeQsoft — Clinic Ops Prototype (Independent)
+#### HealthTrack — Clinic Ops Prototype (Independent)
 2024
 - Prototyped a clinic operations system with modules for job orders, patients, doctors, and sales.
 - Built with FastAPI + SQLModel and NiceGUI/Flet for internal tooling; paused when sponsorship ended.
@@ -51,6 +51,6 @@ Updated Aug 2025 | ~24h 15m
 - Used cross-platform tooling (VS Code, Postman, Azure Data Studio).
 
 ## Education
+- De La Salle University — BS Computer Science, 2022–Present
 - Harvard CS50x & CS50P, 2023–2024 — Foundations of computer science and Python
-- BS Computer Engineering, AMA Computer College, 2004–2010
-- Additional background: Philosophy and Sacred Theology (strong communication and writing)
+- Additional background: Student research assistantship and technical writing
