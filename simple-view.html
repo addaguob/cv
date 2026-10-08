@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Resume of Alexander D. Daguob, software engineer and data annotator." />
+  <title>Alexander D. Daguob — Resume</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --accent: #294332;
+      --text: #202923;
+      --muted: #536159;
+      --line: #dce4de;
+      --surface: #f5f8f5;
+    }
+
+    * { box-sizing: border-box; }
+    html { background: #edf1ed; }
+    body {
+      max-width: 900px;
+      margin: 32px auto;
+      padding: 0 28px;
+      color: var(--text);
+      background: #fff;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 16px;
+      line-height: 1.65;
+    }
+
+    main { padding: 38px 48px 24px; }
+    .identity {
+      padding: 0 0 24px;
+      border-bottom: 3px solid var(--accent);
+    }
+    h1 {
+      margin: 0;
+      color: var(--accent);
+      font-size: 36px;
+      line-height: 1.2;
+      letter-spacing: -0.03em;
+    }
+    .headline {
+      margin: 7px 0 14px;
+      color: var(--muted);
+      font-size: 19px;
+      font-weight: 600;
+    }
+    .contact {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px 16px;
+      margin: 0;
+      font-size: 14px;
+    }
+    a { color: #245b3a; text-decoration-thickness: 1px; text-underline-offset: 2px; }
+    section { margin-top: 30px; }
+    h2 {
+      margin: 0 0 12px;
+      padding-bottom: 6px;
+      border-bottom: 1px solid var(--line);
+      color: var(--accent);
+      font-size: 19px;
+      line-height: 1.35;
+    }
+    h3 {
+      margin: 19px 0 2px;
+      font-size: 17px;
+      line-height: 1.4;
+    }
+    h4 {
+      margin: 16px 0 2px;
+      font-size: 16px;
+      line-height: 1.4;
+    }
+    p { margin: 5px 0 10px; }
+    ul { margin: 6px 0 12px; padding-left: 23px; }
+    li { margin: 3px 0; padding-left: 2px; }
+    .entry-meta { margin: 0; color: var(--muted); font-size: 14px; }
+    .skills-list { margin: 0; padding: 0; list-style: none; }
+    .skills-list li { margin: 8px 0; }
+    .skills-list strong { color: var(--accent); }
+    .development-item, .education-item { margin: 0 0 14px; }
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      padding: 18px 48px 30px;
+      border-top: 1px solid var(--line);
+    }
+    .button {
+      display: inline-block;
+      padding: 9px 14px;
+      border: 1px solid var(--accent);
+      border-radius: 5px;
+      background: var(--accent);
+      color: #fff;
+      font-size: 14px;
+      font-weight: 700;
+      text-decoration: none;
+    }
+    .button.secondary { background: #fff; color: var(--accent); }
+
+    @media (max-width: 620px) {
+      body { margin: 0 auto; padding: 0; font-size: 15px; }
+      main { padding: 28px 22px 20px; }
+      h1 { font-size: 30px; }
+      .actions { padding: 16px 22px 24px; }
+    }
+
+    @media print {
+      @page { size: A4; margin: 16mm; }
+      html, body { max-width: none; margin: 0; padding: 0; background: #fff; }
+      main { padding: 0; }
+      .actions { display: none; }
+      a { color: inherit; text-decoration: none; }
+      h2, h3, h4 { break-after: avoid; }
+      li, .development-item, .education-item { break-inside: avoid; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header class="identity">
+      <h1>Alexander D. Daguob</h1>
+      <p class="headline">Software Engineer and Data Specialist</p>
+      <p class="contact">
+        <span>Quezon City, Metro Manila</span>
+        <a href="tel:+639297731916">+63 929 773 1916</a>
+        <a href="mailto:alexanderdaguob@gmail.com">alexanderdaguob@gmail.com</a>
+        <a href="https://github.com/addaguob">github.com/addaguob</a>
+        <a href="https://linkedin.com/in/addaguob">linkedin.com/in/addaguob</a>
+      </p>
+    </header>
+
+    <section aria-labelledby="summary-heading">
+      <h2 id="summary-heading">Professional Summary</h2>
+      <p>Software Engineer and Data Specialist building backend APIs and providing reliable data services. Experienced with Python 3, FastAPI, SQL, and lightweight full-stack Python interfaces. Delivered production-style apps as a solo developer with authentication, role-based access control (RBAC), and streamlined guest/client workflows. Highly proficient in leveraging AI-assisted development tools to accelerate software delivery. Equipped with fast typing and accurate data entry skills for AI training and data processing roles.</p>
+    </section>
+
+    <section aria-labelledby="skills-heading">
+      <h2 id="skills-heading">Skills</h2>
+      <ul class="skills-list">
+        <li><strong>Data Processing:</strong> Data Entry, AI Data Training, Data Labeling, Captcha Solving</li>
+        <li><strong>Typing Speed:</strong> 56 Words Per Minute</li>
+        <li><strong>Languages:</strong> Python 3, SQL, HTML/CSS/JavaScript, C#/.NET</li>
+        <li><strong>Backend:</strong> FastAPI, REST APIs, SQLModel, SQLAlchemy, Pydantic, Authentication, RBAC</li>
+        <li><strong>Frontend and UI:</strong> NiceGUI, Tailwind CSS</li>
+        <li><strong>Databases and Storage:</strong> SQLite, PostgreSQL, CSV/JSON flat-file stores</li>
+        <li><strong>Testing and Quality:</strong> pytest, httpx/requests, QA automation concepts</li>
+        <li><strong>Tooling and DevOps:</strong> Git/GitHub, GitHub Actions, Docker, Linux</li>
+        <li><strong>AI Development Tools:</strong> GitHub Copilot (VS Code), Claude Code, Gemini Pro</li>
+      </ul>
+    </section>
+
+    <section aria-labelledby="experience-heading">
+      <h2 id="experience-heading">Work Experience</h2>
+
+      <article>
+        <h3>Data Annotator — Remotask</h3>
+        <p class="entry-meta">Remote | September 2026–Present</p>
+        <ul>
+          <li>Annotated data using the SensorFlowLab tool for EGO Nexus Robotics.</li>
+          <li>Provided accurate data processing for AI training datasets.</li>
+        </ul>
+      </article>
+
+      <article>
+        <h3>Independent Software Engineer — Project Based</h3>
+        <p class="entry-meta">Remote | December 2023–Present</p>
+
+        <article>
+          <h4>DGB Wedding &amp; RSVP App — Full-Stack Developer</h4>
+          <p class="entry-meta">2026</p>
+          <ul>
+            <li>Developed and deployed an end-to-end wedding celebration and RSVP platform using Python, FastAPI, and NiceGUI.</li>
+            <li>Designed an invitation validation system that verifies unique guest codes before RSVP submission.</li>
+            <li>Built guest response capture and storage pipelines using lightweight CSV and JSON flat files.</li>
+            <li>Implemented a secure, authenticated admin dashboard for managing guest lists, monitoring attendance, and updating event configurations.</li>
+            <li>Applied Tailwind CSS and custom HTML/CSS for a responsive, branded guest storytelling experience.</li>
+          </ul>
+        </article>
+
+        <article>
+          <h4>PUSH App — Nurse Research Platform — Solo Developer</h4>
+          <p class="entry-meta">2024–2025</p>
+          <ul>
+            <li>Built and delivered a full-stack research application used by nurses.</li>
+            <li>Supported a first-place (Champion) outcome in a nursing research project.</li>
+            <li>Designed a REST API and data model with FastAPI and SQLModel.</li>
+            <li>Implemented authentication, offline-first data capture, and exportable reporting.</li>
+          </ul>
+        </article>
+
+        <article>
+          <h4>EyeQsoft — Clinic Ops Prototype — Independent</h4>
+          <p class="entry-meta">2024</p>
+          <ul>
+            <li>Prototyped a clinic operations system for job orders and patient management.</li>
+            <li>Built with FastAPI and SQLModel for internal tooling.</li>
+          </ul>
+        </article>
+
+        <article>
+          <h4>Open Source Utilities &amp; Experiments</h4>
+          <p class="entry-meta">2023–Present | <a href="https://github.com/addaguob">github.com/addaguob</a></p>
+          <ul>
+            <li>Built small CLI tools, web scraping automation, and data pipelines.</li>
+            <li>Maintain an active GitHub portfolio.</li>
+          </ul>
+        </article>
+      </article>
+    </section>
+
+    <section aria-labelledby="development-heading">
+      <h2 id="development-heading">Professional Development</h2>
+      <article class="development-item">
+        <h3>Python From Scratch &amp; Selenium WebDriver QA Automation — Udemy</h3>
+        <p class="entry-meta">39 hours 45 minutes</p>
+      </article>
+      <article class="development-item">
+        <h3>C# .NET with MS SQL: Complete Beginner to Master — Udemy</h3>
+        <p class="entry-meta">24 hours 15 minutes</p>
+      </article>
+    </section>
+
+    <section aria-labelledby="education-heading">
+      <h2 id="education-heading">Education</h2>
+      <article class="education-item">
+        <h3>Harvard CS50x &amp; CS50P</h3>
+        <p class="entry-meta">2023–2024 | Foundations of computer science and Python</p>
+      </article>
+      <article class="education-item">
+        <h3>BS Computer Engineering</h3>
+        <p class="entry-meta">AMA Computer College — Bacolod | 2004–2010</p>
+      </article>
+      <article class="education-item">
+        <h3>AB Philosophy</h3>
+        <p class="entry-meta">Sacred Heart Seminary School of Philosophy — Bacolod | 2010–2013</p>
+      </article>
+      <article class="education-item">
+        <h3>Bachelor in Sacred Theology</h3>
+        <p class="entry-meta">University of Santo Tomas — Manila | 2013–2016</p>
+      </article>
+    </section>
+  </main>
+
+  <nav class="actions" aria-label="Resume actions">
+    <button class="button" type="button" onclick="window.print()">Print / Save as PDF</button>
+    <a class="button secondary" href="mailto:alexanderdaguob@gmail.com">Email me</a>
+    <a class="button secondary" href="resume.txt" download>View as Text</a>
+  </nav>
+</body>
+</html>
