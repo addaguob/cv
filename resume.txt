@@ -24,6 +24,7 @@ SKILLS
 * Testing/Quality: pytest | httpx/requests | QA Automation Concepts
 * Tooling/DevOps: Git/GitHub | GitHub Actions | Docker | Linux
 * AI Development Tools: GitHub Copilot (VS Code) | Claude Code | Gemini Pro
+* Multimedia & Editing: Video Editing (Kdenlive) | Audio Editing (Audacity)
 
 ********************************************************************************
 WORK EXPERIENCE

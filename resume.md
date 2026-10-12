@@ -20,6 +20,7 @@ Software Engineer and Data Specialist building backend APIs and providing reliab
 - **Testing and Quality:** pytest, httpx/requests, QA automation concepts
 - **Tooling and DevOps:** Git/GitHub, GitHub Actions, Docker, Linux
 - **AI Development Tools:** GitHub Copilot (VS Code), Claude Code, Gemini Pro
+- **Multimedia and Editing:** Video Editing (Kdenlive), Audio Editing (Audacity)
 
 ## Work Experience
 
@@ -49,7 +50,7 @@ Software Engineer and Data Specialist building backend APIs and providing reliab
 **2024–2025**
 
 - Built and delivered a full-stack research application used by nurses.
-- Supported a first-place (Champion) outcome in a nursing research project.
+- Supported a 1st place outcome in a nursing research project.
 - Designed a REST API and data model with FastAPI and SQLModel.
 - Implemented authentication, offline-first data capture, and exportable reporting.
 
