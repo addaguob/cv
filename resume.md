@@ -63,7 +63,7 @@ Software Engineer and Data Specialist building backend APIs and providing reliab
 
 #### Open Source Utilities & Experiments
 
-**2023–Present | [github.com/addaguob](https://github.com/addaguob)**
+**May 2023–Present | [github.com/addaguob](https://github.com/addaguob)**
 
 - Built small CLI tools, web scraping automation, and data pipelines.
 - Maintain an active GitHub portfolio.

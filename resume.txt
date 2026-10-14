@@ -54,7 +54,7 @@ EyeQsoft | Clinic Ops Prototype | Independent | 2024
 * Prototyped a clinic operations system for job orders and patient management.
 * Built with FastAPI and SQLModel for internal tooling.
 
-Open Source Utilities & Experiments | 2023 to Present
+Open Source Utilities & Experiments | May 2023 to Present
 * Built small CLI tools, web scraping automation and data pipelines.
 * Maintain an active GitHub portfolio.
 
