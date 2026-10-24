@@ -29,7 +29,7 @@ Software Engineer and Data Specialist building backend APIs and providing reliab
 
 **Remote | September 2026–Present**
 
-- Performed egocentric video segmentation and sub-goal timestamping on EGO Nexus Household and EGO OTS Basic robotics projects using SensorFlowLab.
+- Performed egocentric video segmentation and sub-goal timestamping on EGO Nexus Household and EGO OTS Basic robotics projects using SensorFusionLab.
 - Annotated precise sub-goal boundaries, pick-and-place sequences, and multi-action manipulation steps under strict second limits.
 - Formulated standardized imperative captions using controlled verb taxonomies, object descriptions, and hand attributions.
 - Conducted multi-pass quality checks and reviewer audits across Clip Export and Sub-goal timelines.
