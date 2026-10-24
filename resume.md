@@ -2,16 +2,17 @@
 
 Software Engineer and Data Specialist
 
-Quezon City, Metro Manila | +63 929 773 1916 | [alexanderdaguob@gmail.com](mailto:alexanderdaguob@gmail.com)
+Quezon City, Metro Manila | +63 929 773 1916 | [alexanderdaguob@gmail.com](mailto:alexanderdaguob@gmail.com) |
 [GitHub](https://github.com/addaguob) | [LinkedIn](https://linkedin.com/in/addaguob)
 
 ## Professional Summary
 
-Software Engineer and Data Specialist building backend APIs and providing reliable data services. Experienced with Python 3, FastAPI, SQL, and lightweight full-stack Python interfaces. Delivered production-style apps as a solo developer with authentication, role-based access control (RBAC), and streamlined guest/client workflows. Highly proficient in leveraging AI-assisted development tools to accelerate software delivery. Equipped with fast typing and accurate data entry skills for AI training and data processing roles.
+Software Engineer and Data Specialist building backend APIs and providing reliable data services. Experienced with Python 3, FastAPI, SQL, and lightweight full-stack Python interfaces. Delivered production-style apps as a solo developer with authentication, role-based access control (RBAC), and streamlined guest/client workflows. Highly proficient in leveraging AI-assisted development tools to accelerate software delivery. Skilled in video data annotation, egocentric robotics segmentation, and QA review for frontier physical AI datasets.
 
 ## Skills
 
-- **Data Processing:** Data Entry, AI Data Training, Data Labeling, Captcha Solving
+- **Data Processing and AI Training:** Video Data Annotation, Egocentric Robotics Labeling, Sub-goal Segmentation, Reviewer QA Auditing, Data Entry
+- **Annotation Tooling:** SensorFusionLab, Quality Assistant Linters
 - **Typing Speed:** 56 Words Per Minute
 - **Languages:** Python 3, SQL, HTML/CSS/JavaScript, C#/.NET
 - **Backend:** FastAPI, REST APIs, SQLModel, SQLAlchemy, Pydantic, Authentication, RBAC
@@ -24,12 +25,15 @@ Software Engineer and Data Specialist building backend APIs and providing reliab
 
 ## Work Experience
 
-### Data Annotator — Remotask
+### Data Annotator & QA Specialist — Remotasks
 
 **Remote | September 2026–Present**
 
-- Annotated data using the SensorFlowLab tool for EGO Nexus Robotics.
-- Provided accurate data processing for AI training datasets.
+- Performed egocentric video segmentation and sub-goal timestamping on EGO Nexus Household and EGO OTS Basic robotics projects using SensorFlowLab.
+- Annotated precise sub-goal boundaries, pick-and-place sequences, and multi-action manipulation steps under strict second limits.
+- Formulated standardized imperative captions using controlled verb taxonomies, object descriptions, and hand attributions.
+- Conducted multi-pass quality checks and reviewer audits across Clip Export and Sub-goal timelines.
+- Resolved Quality Assistant linter warnings and boundary overlaps to deliver high-fidelity training data.
 
 ### Independent Software Engineer — Project Based
 
@@ -66,7 +70,7 @@ Software Engineer and Data Specialist building backend APIs and providing reliab
 **May 2023–Present | [github.com/addaguob](https://github.com/addaguob)**
 
 - Built small CLI tools, web scraping automation, and data pipelines.
-- Maintain an active GitHub portfolio.
+- Maintain an active developer portfolio.
 
 ## Professional Development
 
